@@ -9,7 +9,7 @@ function setup() {
 
 function palavraAleatoria() {
   
-  let palavras = ["Meu nome é Andre"];
+  let palavras = ["Meu nome é Angela"];
   
   return random(palavras);
 }
